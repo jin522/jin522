@@ -4,8 +4,9 @@
 
 2、程序一定有Bug
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wercurial&layout=compact)](https://github.com/Wercurial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xujin-wk&layout=compact)](https://github.com/Wercurial/github-readme-stats)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wercurial&show_icons=true&theme=tokyonight)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=xujin-wk&show_icons=true&theme=tokyonight)
 
-My visitor's number is ![Visitor Count](https://profile-counter.glitch.me/Wercurial/count.svg)!
+My visitor's number is ![Visitor Count](https://profile-counter.glitch.me/xujin-wk/count.svg)!
+
